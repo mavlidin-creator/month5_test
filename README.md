@@ -78,15 +78,14 @@ python manage.py runserver
 
 ## 📁 Структура проекта
 
-``bash
-blog_api/
+[blog_api/
 ├── blog/                
 ├── main/                 
 ├── manage.py
 ├── requirements.txt
 ├── docker-compose.yml
 ├── Dockerfile
-└── .env
+└── .env]
 
 ### 🧪 Примеры запросов
 
