@@ -90,23 +90,21 @@ blog_api/
 
 ### 🧪 Примеры запросов
 
-``bash
 Регистрация пользователя
 
-POST /api/register/
+[POST /api/register/
 {
     "username": "user1",
     "password": "your_password"
-}
+}]
 
 ### Получение JWT-токена
 
-``bash
-POST /api/token/
+[POST /api/token/
 {
     "username": "user1",
     "password": "your_password"
-}
+}]
 
 ## 📄 Лицензия
 
